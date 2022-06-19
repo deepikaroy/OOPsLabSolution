@@ -38,7 +38,7 @@ public class Employee
 		switch(choice)
 		{
 			case 1:  department = "technical"; 
-				break;
+			break;
 			case 2:  department = "admin";
 			break;
 			case 3:  department = "humanresouce";
