@@ -27,7 +27,7 @@ public class Employee
 	public void selectDepartment()
 	{	
 		System.out.println("Please enter the department from the following: ");
-		System.out.println("1.Technical");
+		System.out.println("1. Technical");
 		System.out.println("2. Admin");
 		System.out.println("3. Human Resouce");
 		System.out.println("4. Legal");
